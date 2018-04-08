@@ -2,7 +2,7 @@ package ie.gmit.sw.ai;
 
 import java.nio.CharBuffer; 
 
-public class CipherBreaker {
+public class PlayFair {
 	public static char[] encrypt(char[] plain, char[] key, char replace){  
         //Creating decryption matrix  
         char[][] matrix = constructMatrix(key);  
