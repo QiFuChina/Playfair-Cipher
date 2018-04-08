@@ -1,6 +1,10 @@
 # Playfair-Cipher
 ### Author: Qi Fu
+<<<<<<< HEAD
 ### GitHub: [QiFuChina](https://github.com/QiFuChina/Playfair-Cipher)
+=======
+
+>>>>>>> 26b7caa1e46e7b37897d6077e101808acc266394
 ## 
 > * This a Java application that enables a cipher-text source to be specified (a file or URL) and an output destination file for decrypted plain-text, and decrypt cipher-text with a simulated annealing algorithm that uses a log-probability and n-gram statistics as a heuristic evaluation function.
 
