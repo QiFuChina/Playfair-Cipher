@@ -1,7 +1,8 @@
 # Playfair-Cipher
 ### Author: Qi Fu
-
-## This a Java application that enables a cipher-text source to be specified (a file or URL) and an output destination file for decrypted plain-text, and decrypt cipher-text with a simulated annealing algorithm that uses a log-probability and n-gram statistics as a heuristic evaluation function.
+### GitHub: [QiFuChina](https://github.com/QiFuChina/Playfair-Cipher)
+## 
+> * This a Java application that enables a cipher-text source to be specified (a file or URL) and an output destination file for decrypted plain-text, and decrypt cipher-text with a simulated annealing algorithm that uses a log-probability and n-gram statistics as a heuristic evaluation function.
 
 ## Code Files
 
@@ -17,4 +18,5 @@
 ### Shufflekey
 > It makes the text changes to the key with the frequency given.
 
-## This application can decrypt and encrypt text when users type text from keyboard but it has some problems with ShufflKey and HashGram files, the exception shows there is error with method "getLogProbability" and "CiperBreaker" in ShuffleKey, and also has errors in the Runnner and HashGram files.
+## 
+> * This application can decrypt and encrypt text when users type text from keyboard but it has some problems with ShufflKey and HashGram files, the exception shows there is error with method "getLogProbability" and "CiperBreaker" in ShuffleKey, and also has errors in the Runnner and HashGram files.
